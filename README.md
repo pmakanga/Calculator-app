@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Clone the angular project, run npm install to restore the npm packages.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-The image for the calculator app is on the img folder of the application ~\Calculator\CalculatorApp\calculator-app\img
+The image for the calculator app is on the img folder of the application ~\Calculator\calculator-app\img
 
 ## API base url
 The API base url is in the environment folder in the angular application the url is accessed via the environment variables. The url is https://localhost:7079/api/calculator note that when the API port number is updated the same should be adjusted in the environment variable folder
