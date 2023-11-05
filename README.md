@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 The image for the calculator app is on the img folder of the application ~\Calculator\calculator-app\img
 
 ## API base url
-The API base url is in the environment folder in the angular application the url is accessed via the environment variables. The url is https://localhost:7079/api/calculator note that when the API port number is updated the same should be adjusted in the environment variable folder
+The API base url is in the environment folder in the angular application the url is accessed via the environment variables. The url is https://localhost:7079/api/calculator note that when the API port number is updated the same should be adjusted in the environment variable file
 
 
 ## Running unit tests
