@@ -19,7 +19,7 @@ I am using Jest for unit test run npx jest to run unit test
 
 ## API
 
-The api is developed with ASP.NetCore version 7.0 clone the the source and run the same not the local host ports number the same should match what is in the angular application's environment variable file.
+The api is developed with ASP.NetCore version 7.0 clone the the source code and run the same, note that localhost port number for the API should match what is in the angular application's environment variable file.
 
 ## Create Database
 In order to create the database run the script from a folder ScriptFile contained inside the API project. This will create the CalculatorDb and a table Calculations
@@ -27,4 +27,4 @@ Once done adjust the connection string in the appsettings.json to suit your sql 
 
 ## Run the API
 Launch the API on your localhost by running the cloned project, you can also test the API from swagger.
-Once the API is runnging and the angular app is fired via ng serve or ng serve --o the app will be able to make calls to the API
+Once the API is running and the angular app is fired via ng serve or ng serve --o the app will be able to make calls to the API
