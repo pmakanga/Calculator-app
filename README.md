@@ -28,3 +28,7 @@ Once done adjust the connection string in the appsettings.json to suit your sql 
 ## Run the API
 Launch the API on your localhost by running the cloned project, you can also test the API from swagger.
 Once the API is running and the angular app is fired via ng serve or ng serve --o the app will be able to make calls to the API
+
+## API Unit Testing
+For unit testing have added an xUnit project and applied FakeItEasy and FluentAssertions libraries for mocking
+
